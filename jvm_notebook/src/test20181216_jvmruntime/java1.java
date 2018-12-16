@@ -15,13 +15,13 @@ public class java1 {
 		// TODO Auto-generated method stub
 		//SuperClass s1 = new SuperClass();
 		
-		//代码清单7-4
+		//雿滌項岆嵃7-4
 		//System.out.println(Sub.A);
 	}
 
 }
 
-//代码清单7-4
+//雿滌項岆嵃7-4
 class FieldResolution{
 	interface Interface0{
 		int A = 0;
@@ -47,12 +47,12 @@ class FieldResolution{
 		// TODO Auto-generated method stub
 		//SuperClass s1 = new SuperClass();
 		
-		//代码清单7-4
+		//雿滌項岆嵃7-4
 		System.out.println(Sub.A);
 	}
 }
 
-//代码清单7-6
+//雿滌項岆嵃7-6 test
 class DeadLoopClass{
 	static {
 		if(true) {
