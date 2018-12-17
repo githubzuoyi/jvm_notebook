@@ -52,7 +52,7 @@ class FieldResolution{
 	}
 }
 
-//덜쯤헌데7-6 test
+//덜쯤헌데7-6 test-file in put
 class DeadLoopClass{
 	static {
 		if(true) {
